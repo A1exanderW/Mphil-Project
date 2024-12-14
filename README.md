@@ -1,5 +1,5 @@
 
-Project: Ecological analysis of EBPR samples 
+Project: Ecological analysis of EBPR samples; 
 Author: Alexander Wang
 
 This is a sub-project from within Mphil Project
