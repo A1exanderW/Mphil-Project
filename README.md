@@ -9,3 +9,6 @@ Uses results provided by UQ's ACE facility for 16s rRNA amplicon sequencing, to 
 
 # [ Amplicon sample analysis]
 Based on Patrick Schloss (aka Riffomonas) tutorials: https://www.youtube.com/c/RiffomonasProject
+
+# [ FCS analysis]
+Uses the R- flowCore package to access key parameters and analyse Flow cytometry data 
